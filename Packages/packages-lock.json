@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "8042b29ff87dd5506d7aad72bd6d8d7405985f27"
     },
+    "com.gitamend.improvedtimers": {
+      "version": "https://github.com/adammyhre/Unity-Improved-Timers.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b0d6f2f39e83be3cc95f00c3baea6228af988cb6"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
