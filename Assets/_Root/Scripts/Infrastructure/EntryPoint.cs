@@ -14,12 +14,12 @@ namespace Infrastructure
         /// <summary>
         /// Global application settings
         /// </summary>
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+        /*[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         public static void InitialSetUp()
         {
             instance = new EntryPoint();
             instance.Enter();
-        }
+        }*/
 
         private EntryPoint()
         {
